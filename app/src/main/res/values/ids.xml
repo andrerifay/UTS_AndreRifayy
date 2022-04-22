@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editText" type="id" />
+    <item name="text_jumlah" type="id" />
+    <item name="btn_hitung" type="id" />
+    <item name="ketik_title" type="id" />
+    <item name="linear2" type="id" />
+</resources>

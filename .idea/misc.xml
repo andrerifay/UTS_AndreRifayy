@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/MARF2022/AndroidStudioProjects/UTS_AndreRifayy/app/src/main/res/drawable/drecam_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/MARF2022/AndroidStudioProjects/UTS_AndreRifayy/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MARF2022/AndroidStudioProjects/UTS_AndreRifayy/app/src/main/res/layout/activity_peri.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MARF2022/AndroidStudioProjects/UTS_AndreRifayy/app/src/main/res/layout/activity_perii.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MARF2022/AndroidStudioProjects/UTS_AndreRifayy/app/src/main/res/layout/activity_perii_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MARF2022/AndroidStudioProjects/UTS_AndreRifayy/app/src/main/res/layout/activity_periii.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MARF2022/AndroidStudioProjects/UTS_AndreRifayy/app/src/main/res/layout/activity_periii_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MARF2022/AndroidStudioProjects/UTS_AndreRifayy/app/src/main/res/layout/activity_periv.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MARF2022/AndroidStudioProjects/UTS_AndreRifayy/app/src/main/res/layout/activity_perv.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MARF2022/AndroidStudioProjects/UTS_AndreRifayy/app/src/main/res/layout/activity_perv_adapter.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MARF2022/AndroidStudioProjects/UTS_AndreRifayy/app/src/main/res/layout/activity_perv_cell.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MARF2022/AndroidStudioProjects/UTS_AndreRifayy/app/src/main/res/layout/activity_perv_detail.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MARF2022/AndroidStudioProjects/UTS_AndreRifayy/app/src/main/res/layout/activity_pervi.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MARF2022/AndroidStudioProjects/UTS_AndreRifayy/app/src/main/res/layout/activity_pervi_alert.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MARF2022/AndroidStudioProjects/UTS_AndreRifayy/app/src/main/res/layout/activity_pervi_listview.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MARF2022/AndroidStudioProjects/UTS_AndreRifayy/app/src/main/res/layout/activity_pervi_listview_cell.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MARF2022/AndroidStudioProjects/UTS_AndreRifayy/app/src/main/res/layout/activity_pervi_listview_detail.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MARF2022/AndroidStudioProjects/UTS_AndreRifayy/app/src/main/res/layout/activity_pervi_menghitung.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MARF2022/AndroidStudioProjects/UTS_AndreRifayy/app/src/main/res/layout/activity_pervii.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MARF2022/AndroidStudioProjects/UTS_AndreRifayy/app/src/main/res/mipmap-anydpi-v26/Andre CAM.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

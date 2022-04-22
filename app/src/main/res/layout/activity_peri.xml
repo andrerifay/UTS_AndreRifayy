@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/andre1"
+    tools:context=".activity_peri">
+
+    <TextView
+        android:id="@+id/textperi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="LATIHAN PERTAMA AKU :"
+        android:textAlignment="center"
+        android:textColor="#FFA500"
+        android:textSize="29dp"
+        android:textStyle="bold"
+        tools:ignore="HardcodedText,SpUsage" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_below="@+id/textperi"
+        android:gravity="center"
+        android:text="Hallo, Aku Andre "
+        android:textColor="#FFD700"
+        android:textSize="25sp"
+        android:textStyle="italic"
+        tools:ignore="HardcodedText" />
+
+</RelativeLayout>
